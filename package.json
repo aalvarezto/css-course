@@ -1,7 +1,10 @@
 {
-  "name": "css-course",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "author": "Andres Alvarez <ndralvz@gmail.com>"
+	"name": "css-course",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"author": "Andres Alvarez <ndralvz@gmail.com>",
+	"scripts": {
+		"start": "parcel index.html"
+	}
 }
