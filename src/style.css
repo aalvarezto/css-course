@@ -1,9 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+
 body {
 	font-family: "Montserrat", sans-serif;
+	margin: 0;
 }
 
 #product-overview {
 	background: #ff1b68;
+	width: 700px;
+	height: 528px;
+	padding: 10px;
 }
 
 .section-title {
@@ -14,4 +22,30 @@ body {
 #product-overview h1 {
 	color: white;
 	font-family: "Anton", sans-serif;
+}
+
+.main-header {
+	background-color: #2ddf5c;
+	width: 100%;
+	padding: 8px 16px;
+}
+
+header > div {
+	display: inline-block;
+}
+
+header > .main-nav {
+	display: inline-block;
+	text-align: right;
+	width: calc(100% - 49px);
+}
+
+.main-nav__items {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.main-nav__item {
+	display: inline-block;
 }
