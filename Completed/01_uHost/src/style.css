@@ -16,23 +16,12 @@ body {
 
 .section-title {
 	color: green;
-	text-align: center;
 	/* font-family: inherit; */
 }
 
 #product-overview h1 {
 	color: white;
 	font-family: "Anton", sans-serif;
-}
-
-.plan {
-	background-color: #d5ffdc;
-	text-align: center;
-	padding: 16px;
-	margin: 8px;
-	display: inline-block;
-	width: 30%;
-	vertical-align: middle;
 }
 
 .main-header {
