@@ -6,5 +6,8 @@
 	"author": "Andres Alvarez <ndralvz@gmail.com>",
 	"scripts": {
 		"start": "parcel index.html"
+	},
+	"dependencies": {
+		"rxjs": "^6.6.3"
 	}
 }

@@ -4,5 +4,6 @@
 	"useTabs": true,
 	"arrowParens": "avoid",
 	"printWidth": 80,
-	"htmlWhitespaceSensitivity": "strict"
+	"htmlWhitespaceSensitivity": "strict",
+	"trailingComma": "es5"
 }
