@@ -1,4 +1,5 @@
 "use strict"
 
-import "./style.css"
+import "./shared"
+import "./main"
 import "./outlineSwap"
